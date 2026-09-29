@@ -1,6 +1,6 @@
 Comando de setup do Git
-git config --global user.name "Name"
-git config --global user.email "seu@email.com"
+git config --global user.name "Jose
+git config --global user.email "jr3303361587@hotmail.com"
 
 Comandos essenciasa
 git init <- Cria repositorio na pasta
