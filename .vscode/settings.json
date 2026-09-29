@@ -1,0 +1,25 @@
+{
+  "workbench.statusBar.visible": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.preview": true,
+  "editor.parameterHints.enabled": true,
+  "editor.wordBasedSuggestions": "matchingDocuments",
+  "editor.snippetSuggestions": "inline",
+  "editor.hover.enabled": "on",
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.tabCompletion": "on",
+  "javascript.suggest.enabled": true,
+  "typescript.suggest.enabled": true,
+  "tfa.system.autoAccept": true,
+  "tfa.autocomplete.enabled": true,
+  "tfa.inlineSuggest.enabled": true,
+  "tfa.ghostText.enabled": true,
+  "antigravity.autocomplete.enabled": true,
+  "antigravity.inlineCompletion.enabled": true
+}
